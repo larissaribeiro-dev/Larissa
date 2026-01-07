@@ -1,4 +1,4 @@
-### Olá! Eu sou a Larissa Ribeiro
+<h1>Olá! Eu sou a Larissa Ribeiro</h1>
 
 - 📚 Estudante de Graduação (Engenharia da Computação - UFAM)
 - 🖥️ Lógica de Programação e Fundamentos de Computação
