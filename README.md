@@ -17,7 +17,6 @@
 <h2>Tecnologias que utilizo no meu dia</h2>
 
 <div align="left">
-  <img src="assets/icons/github.svg" width="28" height="28" />&nbsp;&nbsp
   <img src="assets/icons/python.svg" width="26" height="28" /> &nbsp;
   <img src="assets/icons/c.svg" width="28" height="28" />&nbsp;&nbsp;
   <img src="assets/icons/csharp.svg" width="28" height="28" />&nbsp;
