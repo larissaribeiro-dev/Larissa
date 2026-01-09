@@ -8,8 +8,7 @@
 <div align="left">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img height="180px"
-       src="https://github-readme-stats-beryl-ten-89.vercel.app/api?username=larissaribeiro-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=Meu%20GitHub%20Stats&locale=pt-br"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       src="https://github-readme-stats-beryl-ten-89.vercel.app/api?username=larissaribeiro-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=Meu%20GitHub%20Stats&locale=pt-br"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="180px"
        src="https://github-readme-stats-beryl-ten-89.vercel.app/api/top-langs/?username=larissaribeiro-dev&layout=compact&langs_count=16&theme=tokyonight&locale=pt-br"/>
 </div>
